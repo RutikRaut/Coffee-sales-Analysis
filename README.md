@@ -1,4 +1,4 @@
-# Coffee-sales-Analysis
+# Coffee-sales-Analysis(Interactive Dashboard Creation Using MS Excel)
 Performed data cleaning and transformation on sales data using Excel functions like SUMIF, VLOOKUP, and Pivot Tables to ensure data accuracy and consistency.
 Analyzed key metrics such as total sales, average sales per day, and quantity sold by coffee type to assess performance and identify trends.
 Created visual reports and dashboards using Excel’s charting tools (line charts, bar charts, and Pareto charts) to visualize sales performance and highlight top-selling products.
