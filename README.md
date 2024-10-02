@@ -6,16 +6,20 @@ Conducted seasonality and trend analysis by leveraging Pivot Tables and forecast
 Improved decision-making by identifying the top 20% of coffee products contributing to 80% of total sales using the Pareto principle.
 Delivered actionable insights, leading to a 10% improvement in product marketing strategies and promotional efforts for underperforming coffee types.
 
-#Questions(KPIs)
+## Questions(KPIs)
 1.Total Sales Overtime
 2.Total Sales by Coffe Type,Size
 3.Total Sales by Country
 4.Top 5 Customers
 
-#Dataset
+## Dataset
  <a href="https://github.com/RutikRaut/Coffee-sales-Analysis/blob/main/Coffee_Data.xlsx"> View Dataset </a>
 
- #Dashboard Image
+ ## Dashboard Image
+<a href= "https://github.com/RutikRaut/Coffee-sales-Analysis/blob/main/Coffee%20Sales%20Dashboard.png"> View Dashboard </a>
+
+
+
  
  
  
